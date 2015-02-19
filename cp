@@ -1,1 +1,1 @@
-copy from first argument to location of second
+copy from first argument to location of second.
