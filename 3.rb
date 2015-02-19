@@ -1,1 +1,1 @@
-puts "Cfkfpeba".split.map{ |letters| letters.next.next.next }.join
+puts "Cfkfpeba".split('').map{ |letters| letters.next.next.next }.join('')
